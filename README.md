@@ -1,2 +1,2 @@
-# Data-Structure-Of-Ramonai-Map-
+# Data-Structure-Of-Ramonai-Map
 Data Structures Of salesman problem for Romania map on Java
